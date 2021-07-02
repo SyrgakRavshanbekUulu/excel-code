@@ -13,7 +13,11 @@
     "quotes":"off",
     "comma-dangle":"warn",
     "eol-last":"off",
-    "arrow-parens":"off"
+    "arrow-parens":"off",
+    "no-trailing-spaces": "warn",
+    "no-unused-vars": "warn",
+    "operator-linebreak": "off",
+    "max-len": "warn"
   },
   "extends": ["eslint:recommended", "google"]
 }
